@@ -1,2 +1,2 @@
 #!bin/bash
-empty!
+sudo chown betty hello
