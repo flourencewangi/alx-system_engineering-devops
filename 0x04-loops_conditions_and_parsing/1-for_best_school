@@ -1,6 +1,7 @@
-Dys "Best School" 10 times, using the for loop.
+#!/usr/bin/env bash
+# This script is displaying "Holberton School" 10 times
 
-for _ in {1..10}
+for (( for i=0; i<10; i++ ))
 do
 	echo 'Best School'
 done
